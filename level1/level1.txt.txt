@@ -1,0 +1,3 @@
+This Is INITIAL text
+Following text NEEDS TO BE DELETED.
+DELETED
