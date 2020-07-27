@@ -13,3 +13,5 @@ This is just an introduction to git
 This is just an introduction to git
 
 AGAIN ADDSED SOMETINNG
+
+ADDING COPY RIGHT IN README FILE
