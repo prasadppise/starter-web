@@ -8,6 +8,7 @@
 # THANKS
 
     <name>
+	Thanks to ALL - This change done in "myfeature" branch.
 
 # TECHNOLOGY COLOPHON
 
