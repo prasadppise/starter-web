@@ -17,3 +17,5 @@ AGAIN ADDSED SOMETINNG
 ADDING COPY RIGHT IN README FILE
 
 ADDING LINE FOR REBASING EXAMPLE - This change done in Master branch and then more change on Myfeature branch too.
+
+1 AUG 2020 - Updated for Stashing concept
